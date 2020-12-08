@@ -1,2 +1,2 @@
 # Leaflet-challenge
-Web mapping homework assignment for Data Analytics Bootcamp
+Web Mapping Homework Assignment for Data Analytics Bootcamp
