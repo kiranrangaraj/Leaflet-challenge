@@ -1,5 +1,6 @@
 # Leaflet-challenge - Visualizing Data with Leaflet
-Web Mapping Homework Assignment for Data Analytics Bootcamp
+## Github Page Link: https://kiranrangaraj.github.io/Leaflet-challenge/
+Web Mapping Homework Assignment for Data Analytics Bootcamp - Vanderbilt University, Trilogy Education
 
 
 ## Background
