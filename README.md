@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kiranrangaraj.github.io/Leaflet-challenge/">Visit Website</a>
+  <a href="https://kiranrangaraj.github.io/USGS-Earthquake-Data-Visualization/">Visit Website</a>
 </p>
 
 ---
