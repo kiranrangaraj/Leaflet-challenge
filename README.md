@@ -60,7 +60,7 @@ A second data set containing world tectonic plates was obtained from a [GitHub r
 
 ## Data Sources ##
 * [USGS Earthquake GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
-* [GitHub Tectonic Plates](https://github.com/fraxen/tectonicplates)
+* [GitHub Tectonic Plates Repository](https://github.com/fraxen/tectonicplates)
 
 ---
 
